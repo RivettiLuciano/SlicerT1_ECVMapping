@@ -31,7 +31,7 @@ To illustrate how to use this module we created the next tutorial video.
 
 [![IMAGE ALT TEXT HERE](https://github.com/RivettiLuciano/SlicerT1_ECVMapping/blob/master/Screen%20shots/Mappings.png)](https://www.youtube.com/watch?v=MRO2bF7bIDY)
 
-You can do it in your computer downloading the [Sample Data](https://github.com/RivettiLuciano/SlicerT1_ECVMapping/tree/master/SampleData) and coping the steps in the tutorial.
+You can do it in your computer downloading the [Sample Data](https://github.com/RivettiLuciano/SlicerT1_ECVMapping/releases) and coping the steps in the tutorial.
  
  # Acknowledgments
 
