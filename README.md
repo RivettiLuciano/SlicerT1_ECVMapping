@@ -19,7 +19,7 @@ The module is divided, by collapsible buttons, in four sections.
 
 # Where to start
 
-To start, it is recommended to the user to acquire the Native-LL for Trigger times in the interval [100,3000] ms and the Enhanced-LL for Trigger times in the interval [50,1300] ms. Moreover, it is necessary that the Look Locker sequences have the same geometries in order to be able to create the ECV map. With the images acquired, the user must to upload the Dicom files of the look locker sequences to the slicer as explained in [Dicom module] https://www.slicer.org/wiki/Documentation/Nightly/Modules/DICOM). At this point the user will be ready to start using the module. 
+To start, it is recommended to the user to acquire the Native-LL for Trigger times in the interval [100,3000] ms and the Enhanced-LL for Trigger times in the interval [50,1300] ms. Moreover, it is necessary that the Look Locker sequences have the same geometries in order to be able to create the ECV map. With the images acquired, the user must to upload the Dicom files of the look locker sequences to the slicer as explained in [Dicom module](https://www.slicer.org/wiki/Documentation/Nightly/Modules/DICOM). At this point the user will be ready to start using the module. 
 
  # Install instructions
  
@@ -31,7 +31,7 @@ To illustrate how to use this module we created the next tutorial video.
 
 [![IMAGE ALT TEXT HERE](https://github.com/RivettiLuciano/SlicerT1_ECVMapping/blob/master/Screen%20shots/Mappings.png)](https://www.youtube.com/watch?v=MRO2bF7bIDY)
 
-You can do it in your computer. Download the Dicom examples and copy the steps in the tutorial.
+You can do it in your computer. Download the [Dicom examples](https://github.com/RivettiLuciano/SlicerT1_ECVMapping/tree/master/Dicom%20Examples) and copy the steps in the tutorial.
  
  # Acknowledgments
 
