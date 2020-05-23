@@ -37,6 +37,9 @@ You can do it in your computer. Download the [Dicom examples](https://github.com
 
 This work was funded by Fundación Escuela de Medicina Nuclear ([FUESMEN](https://www.fuesmen.edu.ar/)) and Fundación Argentina para el Desarrollo en Salud (FADESA).
 
+# Slicer Version
+
+This module is available for Slicer 4.11 and above.
 
 
 # References
