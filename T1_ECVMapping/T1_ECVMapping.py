@@ -72,7 +72,10 @@ class T1_ECVMappingWidget(ScriptedLoadableModuleWidget, VTKObservationMixin):
     Called when the user opens the module the first time and the widget is initialized.
     """
     ScriptedLoadableModuleWidget.setup(self)
-    self.reloadCollapsibleButton.collapsed   = True
+    try:
+      self.reloadCollapsibleButton.collapsed   = True
+    except:
+      pass
     # Instantiate and connect widgets ...
     #
     
