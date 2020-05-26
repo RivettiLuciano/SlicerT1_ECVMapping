@@ -10,19 +10,19 @@ T1 & ECV Mapping is an extension of [3D Slicer Software](https://www.slicer.org/
 The module is divided, by collapsible buttons, in four sections. 
 * **Input Volumes**: In this section the user must select the Native and Enhanced Look Locker. After that, by clicking the "Create T1 Mapping" button, the module will calculate both, the Native and the Enhanced T1 Mapping. There is also a button called "Refresh views" which sets the recommended volumes to the slice view, and a check button, called "Fix Scalar Volume', which blocks and automatically sets the inputs for the sections of the module. 
 
-* **Statistics**: In this section the user will be able to assess the statistics for some region of interests that can be done with the [Segment Editor module](https://slicer.readthedocs.io/en/latest/user_guide/module_segmenteditor.html). The statistics will be evaluated on the scalar volumes selected unless the check button is "checked", in that case, the module will show the results for the same ROI in both, Native and Enhanced T1 Mapping. 
+* **Statistics**: In this section the user will be able to assess the statistics for some region of interests that can be done with the [Segment Editor module](https://slicer.readthedocs.io/en/latest/user_guide/module_segmenteditor.html). Unless the check button is "checked", the statistics will be evaluated on the scalar volumes selected in this section. If it is checked the module will show the results for the same ROI in both, Native and Enhanced T1 Mapping. 
 
-* **ECV Map**: In this section, if the check button is "unchecked", the user will have to select the Native and Enhanced T1 mapping to create the ECV map. It is also necessary to write the percentage of Hematocrit and the T1 values of the blood for both mappings. To do it automatically the user should create only one ROI in the cavity and then compute the statistics.
+* **ECV Map**: In this section, if the check button is "unchecked", the user will have to select the Native and Enhanced T1 mapping to create the ECV map. It is also necessary to enter the Hematocrit percentage and the T1 values of the blood for both mappings. To do it automatically the user should create only one ROI in the cavity and then compute the statistics.
 
 * **Threshold Controllers**: This section allows to manage the threshold in the Native, Enhanced and ECV mappings.
 
  # Install instructions
  
- T1 & ECV Mapping is currently distributed as an extension via the 3D Slicer ExtensionManager. To use this extension download the version 4.11 and above of [3D Slicer](https://download.slicer.org/) and follow the instructions detailed in [Extension manager](https://www.slicer.org/wiki/Documentation/4.3/SlicerApplication/ExtensionsManager). When the module is installed you will be able to find it if you go to the module list and look for in the Quantification section.
+ T1 & ECV Mapping is currently distributed as an extension via the 3D Slicer ExtensionManager. To use this extension download the version 4.11 and above of [3D Slicer](https://download.slicer.org/) and follow the instructions detailed in [Extension manager](https://www.slicer.org/wiki/Documentation/4.3/SlicerApplication/ExtensionsManager). When the module is installed you will be able to find it going to the module list and looking in the Quantification section.
 
 # Where to start
 
-To start, it is recommended to the user to acquire the Native-LL for Trigger times in the interval [100,3000] ms and the Enhanced-LL for Trigger times in the interval [50,1300] ms. Moreover, it is necessary that the Look Locker sequences have the same geometries in order to be able to create the ECV map. With the images acquired, the user must to upload the Dicom files of the look locker sequences to the slicer as explained in [Dicom module](https://www.slicer.org/wiki/Documentation/Nightly/Modules/DICOM). At this point the user will be ready to start using the module. 
+To start, it is recommended to the user to acquire the Native and Enhanced Look Locker for Trigger times in the intervals [100,3000] ms and [50,1300] ms respectively. Moreover, it is necessary that the sequences have the same geometries in order to be able to create the ECV map. With the images acquired, the user must upload the Dicom files of the look locker sequences to the slicer as explained in [Dicom module](https://www.slicer.org/wiki/Documentation/Nightly/Modules/DICOM). At this point the user will be ready to start using the module. 
 
  
  # Tutorial
