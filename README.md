@@ -22,7 +22,7 @@ The module is divided, by collapsible buttons, in four sections.
 
 # Where to start
 
-To start, it is recommended to the user to acquire the Native and Enhanced Look Locker for Trigger times in the intervals [100,3000] ms and [50,1300] ms respectively. Moreover, it is necessary that the sequences have the same geometries in order to be able to create the ECV map. With the images acquired, the user must upload the Dicom files of the look locker sequences to the slicer as explained in [Dicom module](https://www.slicer.org/wiki/Documentation/Nightly/Modules/DICOM). At this point the user will be ready to start using the module. 
+To start, it is recommended to the user to acquire the Native and Enhanced Look Locker for Trigger times in the intervals [100,3000] ms and [50,1300] ms respectively. Moreover, it is necessary that the sequences have the same geometries in order to be able to create the ECV map. With the images acquired, the user must upload the Look Locker Dicom files to the slicer as explained in [Dicom module](https://www.slicer.org/wiki/Documentation/Nightly/Modules/DICOM). At this point the user will be ready to start using the module. 
 
  
  # Tutorial
