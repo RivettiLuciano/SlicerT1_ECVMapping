@@ -33,11 +33,14 @@ You can watch the [tutorial video](https://github.com/RivettiLuciano/SlicerT1_EC
 
 In this section you will see what this module can do.
 
-#### Image 1 shows the three volumes created with the module, the Native, late-contrast enhanced, and ECV Mapping.
+#### Image 1 shows the three volumes created with the module, i.e, the Native, late-contrast enhanced, and ECV Mapping.
 <img src="https://github.com/RivettiLuciano/SlicerT1_ECVMapping/blob/master/Screen%20shots/Mappings.png" width="1000">
 
-#### Image 2 shows the Values of the segments for the ECV map and T1 Enhanced for the short-axis papillary muscle slice.
+#### Image 2 shows the values of the segments for the ECV map and T1 Enhanced for the short-axis papillary muscle slice.
 <img src="https://github.com/RivettiLuciano/SlicerT1_ECVMapping/blob/master/Screen%20shots/Stats.png" width="1000">
+
+#### Image 3 shows the result of using the threshold tool for the images generated before.
+<img src="https://github.com/RivettiLuciano/SlicerT1_ECVMapping/blob/master/Screen%20shots/Threshold.png" width="1000">
 
 
  
