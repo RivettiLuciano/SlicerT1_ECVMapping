@@ -29,7 +29,7 @@ To start, it is recommended to the user to acquire the Native and Enhanced Look 
  
 To illustrate how to use this module we created the next tutorial video. Try to follow the steps in the tutorial in your computer downloading the [Sample Data](https://github.com/RivettiLuciano/SlicerT1_ECVMapping/releases/download/v1.0/Sample1.zip).
 
-[![IMAGE ALT TEXT HERE](https://github.com/RivettiLuciano/SlicerT1_ECVMapping/blob/master/Screen%20shots/Mappings.png)](https://www.youtube.com/watch?v=MRO2bF7bIDY)
+[![IMAGE ALT TEXT HERE](https://github.com/RivettiLuciano/SlicerT1_ECVMapping/blob/master/Screen%20shots/Mappings.png)](https://www.youtube.com/watch?v=K2bdrP7XCqk)
 
 
  
