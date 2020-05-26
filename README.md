@@ -27,9 +27,17 @@ To start, it is recommended to the user to acquire the Native and Enhanced Look 
  
  # Tutorial
  
-To illustrate how to use this module we created the next tutorial video. Try to follow the steps in the tutorial in your computer downloading the [Sample Data](https://github.com/RivettiLuciano/SlicerT1_ECVMapping/releases/download/v1.0/Sample1.zip).
+You can watch the [tutorial video](https://github.com/RivettiLuciano/SlicerT1_ECVMapping/blob/master/Screen%20shots/Mappings.png) in order to see how to use this module. Try to follow the tutorial steps in your computer downloading the [Sample Data](https://github.com/RivettiLuciano/SlicerT1_ECVMapping/releases/download/v1.0/Sample1.zip).
 
-[![IMAGE ALT TEXT HERE](https://github.com/RivettiLuciano/SlicerT1_ECVMapping/blob/master/Screen%20shots/Mappings.png)](https://www.youtube.com/watch?v=K2bdrP7XCqk)
+# Screen Shots
+
+In this section you will see what this module can do.
+
+#### Image 1 shows the three volumes created with the module, the Native, late-contrast enhanced, and ECV Mapping.
+<img src="https://github.com/RivettiLuciano/SlicerT1_ECVMapping/blob/master/Screen%20shots/Mappings.png" width="1000">
+
+#### Image 2 shows the Values of the segments for the ECV map and T1 Enhanced for the short-axis papillary muscle slice.
+<img src="https://github.com/RivettiLuciano/SlicerT1_ECVMapping/blob/master/Screen%20shots/Stats.png" width="1000">
 
 
  
