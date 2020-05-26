@@ -3,7 +3,7 @@
 
 # Introduction 
 
-T1 & ECV Mapping is an extension of [3D Slicer Software](https://www.slicer.org/) that takes advantage of the physical properties of the Look Locker (LL) sequence to find the cardiac T1 Mapping. When the Native and late contrast-enhanced (Enhanced) T1 Mapping are created and the hematocrit value is known, the module allows the creation of the Extracellular Volume (ECV) map. T1 & ECV Mapping can be used to monitor fibrotic tissue since it provides four views in which the user can simultaneously see the Native and late contrast-enhanced T1 mapping, the ECV map and the viability sequence.
+T1 & ECV Mapping is an extension of [3D Slicer Software](https://www.slicer.org/) that takes advantage of the physical properties of the Look Locker (LL) sequence to find the cardiac T1 Mapping. When the Native and late contrast-enhanced (Enhanced) T1 Mapping are created and the hematocrit value is known, the module allows the creation of the Extracellular Volume (ECV) map. T1 & ECV Mapping can be used to monitor fibrotic tissue since it provides four views in which the user can simultaneously see the Native and late contrast-enhanced T1 mapping, the ECV map and the viability sequence. 
  
 # Functionality
 
