@@ -8,17 +8,17 @@ T1 & ECV Mapping is an extension of [3D Slicer Software](https://www.slicer.org/
 # Functionality
 
 The module is divided, by collapsible buttons, in four sections. 
-* **Input Volumes**: In this section the user must select the Native and Enhanced Look Locker. After that, by clicking the "Create T1 Mapping" button, the module will calculate both, the Native and the Enhanced T1 Mapping. There is also a button called "Refresh views" which sets the recommended volumes to the slice view, and a check button, called "Fix Scalar Volume', which blocks and automatically sets the inputs for the sections of the module. 
+* **Input Volumes**: In this section the user must select the Native and Enhanced Look Locker. After that, by clicking the "Create T1 Mapping" button, the module will calculate both, the Native and the Enhanced T1 Mapping. There is also a button called "Refresh views" which sets the recommended volumes to the slice view, and a check button, called "Fix Scalar Volume', which blocks and automatically sets the inputs for the other sections of the module. 
 
 * **Statistics**: In this section the user will be able to assess the statistics for some region of interests that can be done with the [Segment Editor module](https://slicer.readthedocs.io/en/latest/user_guide/module_segmenteditor.html). Unless the check button is "checked", the statistics will be evaluated on the scalar volumes selected in this section. If it is checked the module will show the results for the same ROI in both, Native and Enhanced T1 Mapping. 
 
-* **ECV Map**: In this section, if the check button is "unchecked", the user will have to select the Native and Enhanced T1 mapping to create the ECV map. It is also necessary to enter the Hematocrit percentage and the T1 values of the blood for both mappings. To do it automatically the user should create only one ROI in the cavity and then compute the statistics.
+* **ECV Map**: In this section, if the check button is "unchecked", the user will have to select the Native and Enhanced T1 mapping to create the ECV map. It is also necessary to enter the Hematocrit percentage and the T1 values of the blood for both mappings. To do it automatically, the user should create only one ROI in the cavity and then compute the statistics.
 
 * **Threshold Controllers**: This section allows to manage the threshold in the Native, Enhanced and ECV mappings.
 
  # Install instructions
  
- T1 & ECV Mapping is currently distributed as an extension via the 3D Slicer ExtensionManager. To use this extension download the version 4.11 and above of [3D Slicer](https://download.slicer.org/) and follow the instructions detailed in [Extension manager](https://www.slicer.org/wiki/Documentation/4.3/SlicerApplication/ExtensionsManager). When the module is installed you will be able to find it going to the module list and looking in the Quantification section.
+ T1 & ECV Mapping is currently distributed as an extension via the 3D Slicer ExtensionManager. To use this extension download the version 4.11 or above of [3D Slicer](https://download.slicer.org/) and follow the instructions detailed in [Extension manager](https://www.slicer.org/wiki/Documentation/4.3/SlicerApplication/ExtensionsManager). When the module is installed, you will be able to find it going to the module list and looking in the Quantification section.
 
 # Where to start
 
