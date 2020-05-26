@@ -16,14 +16,14 @@ The module is divided, by collapsible buttons, in four sections.
 
 * **Threshold Controllers**: This section allows to manage the threshold in the Native, Enhanced and ECV mappings.
 
+ # Install instructions
+ 
+ T1 & ECV Mapping is currently distributed as an extension via the 3D Slicer ExtensionManager. To use this extension download the version 4.11 and above of [3D Slicer](https://download.slicer.org/) and follow the instructions detailed in [Extension manager](https://www.slicer.org/wiki/Documentation/4.3/SlicerApplication/ExtensionsManager). When the module is installed you will be able to find it if you go to the module list and look for in the Quantification section.
 
 # Where to start
 
 To start, it is recommended to the user to acquire the Native-LL for Trigger times in the interval [100,3000] ms and the Enhanced-LL for Trigger times in the interval [50,1300] ms. Moreover, it is necessary that the Look Locker sequences have the same geometries in order to be able to create the ECV map. With the images acquired, the user must to upload the Dicom files of the look locker sequences to the slicer as explained in [Dicom module](https://www.slicer.org/wiki/Documentation/Nightly/Modules/DICOM). At this point the user will be ready to start using the module. 
 
- # Install instructions
- 
- T1 & ECV Mapping is currently distributed as an extension via the 3D Slicer ExtensionManager. To use this extension download the latest version of [3D Slicer](https://download.slicer.org/) and follow the instructions detailed in [Extension manager](https://www.slicer.org/wiki/Documentation/4.3/SlicerApplication/ExtensionsManager). When the module is installed you will be able to find it if you go to the module list and look for in the Quantification section.
  
  # Tutorial
  
